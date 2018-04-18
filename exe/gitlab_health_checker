@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require_relative '../lib/gitlab_health_checker/cli'
+GitlabHealthChecker::CLI.start
